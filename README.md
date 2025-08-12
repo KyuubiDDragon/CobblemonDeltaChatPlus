@@ -6,10 +6,9 @@ This mod provides the following functionality:
 
 ### Right Side Display
 Shows important information on the right side of the chat interface:
-- Shinys
 - Money/Currency
 - Kits
-- Party Invites
+- Party Invites/Leaves
 - Boosters
 - All other important information
 
